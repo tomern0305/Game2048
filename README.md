@@ -19,9 +19,8 @@ This version includes a responsive GUI and arrow key support for desktop gamepla
 
 ---
 
-## 🚀 How to Run
 
-### 🖥️ Option 1: Run the Executable  
+### Run the Executable  
 > No setup required.
 
 1. Download the latest `2048.exe`.
